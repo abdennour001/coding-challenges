@@ -1,12 +1,12 @@
 # coding-challenges
 
-# Solved coding challenges ✅
+### Solved coding challenges ✅
 
-[*] Max profit with K transactions (dynamic programming)
-[*] Reverse Linked List
-[*] Invert a Binary tree
-[*] Reverse Nodes in K groups
-[*] Substring with concatenation of all words
-[*] Swap pairs
-[ ] Max heap
-[ ] Course schedule
+-   [x] Max profit with K transactions (dynamic programming)
+-   [x] Reverse Linked List
+-   [x] Invert a Binary tree
+-   [x] Reverse Nodes in K groups
+-   [x] Substring with concatenation of all words
+-   [x] Swap pairs
+-   [ ] Max heap
+-   [ ] Course schedule
